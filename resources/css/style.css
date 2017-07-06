@@ -4,7 +4,7 @@ body {
   font-family: Verdana, sans-serif;
 }
 
-.header {
+#header {
   color: white;
   font-weight: normal;
   font-size: 50px;
@@ -18,4 +18,15 @@ body {
 .copy {
   color: gray;
   font-size: 21px;
+}
+
+.header2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#footer {
+  color: gray;
+  text-align: right;
 }

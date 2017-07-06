@@ -2,10 +2,10 @@ body {
   background-color: black;
   text-align: center;
   font-family: Verdana, sans-serif;
+  color: white;
 }
 
 #header {
-  color: white;
   font-weight: normal;
   font-size: 50px;
 }
@@ -21,7 +21,6 @@ body {
 }
 
 .header2 {
-  color: white;
   font-weight: 300;
   font-size: 42px;
 }
